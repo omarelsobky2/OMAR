@@ -206,7 +206,7 @@ transform: scale(1.3);
     align-items: center;
 }
 .main{
-    background-size: contain;
+    background-size: auto;
 }
 
 }

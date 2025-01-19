@@ -205,6 +205,8 @@ transform: scale(1.3);
     flex-direction: column;
     align-items: center;
 }
-
+.main{
+    background-size: contain;
+}
 
 }
